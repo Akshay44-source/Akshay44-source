@@ -7,7 +7,7 @@
 
 ---
 
-## 💫 About Me
+## 🚀 Developer Profile
 
 A Computer Science student focused on **AI and Full Stack Development**.
 
