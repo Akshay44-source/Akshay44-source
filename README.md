@@ -38,15 +38,6 @@ Building scalable, intelligent systems at the intersection of full stack, AI, an
 - Open-source projects  
 - AI-driven tools  
 - Full stack web applications  
-
----
-
-## 💬 Ask Me About
-
-- Java Programming  
-- Web Development  
-- Artificial Intelligence  
-
 ---
 
 ## 🚀 Projects
