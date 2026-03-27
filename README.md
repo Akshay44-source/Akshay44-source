@@ -14,8 +14,7 @@ A Computer Science student focused on **AI and Full Stack Development**.
 I enjoy building real-world applications and continuously improving my problem-solving and development skills.
 
 🎯 **Career Goal:**  
-To become a **Full Stack Developer** capable of building scalable and AI-powered applications.
-
+Building scalable, intelligent systems at the intersection of full stack, AI, and distributed computing.
 ---
 
 ## 🔭 Currently Working On
